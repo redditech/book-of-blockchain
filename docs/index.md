@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Redditech's Book Of Blockchain
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Goal
 
-## Commands
+* Provide a living, evolving book of blockchain topics.
+* Go beyond the blog - Whatever that may mean in interpretation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Table of Contents
+* Welcome message

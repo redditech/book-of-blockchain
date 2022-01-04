@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Redditech's Book Of Blockchain
+site_url: https://redditech.crypto
+nav:
+    - Home: index.md
+    - About: about.md
