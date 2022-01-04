@@ -3,3 +3,5 @@ site_url: https://redditech.crypto
 nav:
     - Home: index.md
     - About: about.md
+theme: readthedocs
+highlightjs: true
